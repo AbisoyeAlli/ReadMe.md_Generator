@@ -3,3 +3,8 @@ A node app that uses node's built in libraries to accept user input and creates 
 
 ## In-built libraries used
 path, file system(fs), and readline(rl)
+
+## Usage
+Run app using the command
+
+`node generate.js`
